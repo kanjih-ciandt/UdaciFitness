@@ -1,0 +1,5 @@
+cloudfunction-to-storage:
+    - account=mlb-webeng-npd
+    - bucket=gs://test-kanjih/marketing-assets
+    - cache_control=300
+    
